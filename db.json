@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "email": "nguyenducmanh15112004@gmail.com",
+      "password": "$2a$10$Bpcuh/lU6GVbyQ6eA9yyuewsacPaMdafdaWYer9kRKBfwdbJXs6GO",
+      "username": "dfg",
+      "id": 1
+    },
+    {
+      "email": "manhndph31878@fpt.edu.vn",
+      "password": "$2a$10$Le/jw.nlFvxYvbwzYABxrOq5K4ppteQNZQqXyh5BZU5A2aCJB/u/e",
+      "username": "manh",
+      "id": 2
+    },
+    {
+      "email": "manh12@gmail.com",
+      "password": "$2a$10$qagueOLwCMQH0l8rcDxZo.O9kRSs6ncT/pTI3psBYZTOxS4GYtPTa",
+      "username": "manh1qsssqqs5@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "manh1s5@gmail.com",
+      "password": "$2a$10$0J5Uhn7mwxMIGq0UDba2IuD.Y85o1AnNujOmkvC9WOH8KGau0E1kG",
+      "username": "rwereưe",
+      "id": 4
+    },
+    {
+      "email": "asasas@gmail.com",
+      "password": "$2a$10$vJV9mDPxpMNwu8lNJmhSIuO0JIxqLkEreoW9VVNKpefIZMISB2zxu",
+      "username": "etret",
+      "id": 5
+    },
+    {
+      "email": "manh1qqqs5@gmail.com",
+      "password": "$2a$10$OWC3C.L9Z22U8RpietHh7O6lMUemo3PUABJ8.MRHaJhGIdMHZUb7u",
+      "username": "rêt",
+      "id": 6
+    },
+    {
+      "email": "nguyenducmanh15112aaa004@gmail.com",
+      "password": "$2a$10$ml61iWulnr80Ftiw.RaKtOkcYpH9Qpi01a4w0DvBzA6jKDpWnZZWG",
+      "username": "manh",
+      "id": 7
+    },
+    {
+      "email": "manh15@gmail.com",
+      "password": "$2a$10$KUeVBcAoTcqsJNbX3X6grOcVd7CywafhlI1nBWWf5SlFPW8bHV4jS",
+      "username": "manhhhh",
+      "id": 8
+    },
+    {
+      "email": "manh66@gmail.com",
+      "password": "$2a$10$tDX8.9d.Z8OM4sDeOLcql./xNWLtKGLWtqkCnVu3h9I7Hxjo.ho4G",
+      "username": "manhhhh",
+      "id": 9
+    },
+    {
+      "email": "manhhhh@gmail.com",
+      "password": "$2a$10$gB22L4zU8lb25UZ4UV2Wh.sqg8dLjEDkcE6OGt1AGCjWR9fYBaMzu",
+      "id": 10
+    },
+    {
+      "email": "nguyenducmanh151124@gmail.com",
+      "password": "$2a$10$eLtUuQ83co03d4JO6nittu4uuqH.KnguKXrsg8ASpKORwoG/XJ8cq",
+      "id": 11
+    },
+    {
+      "email": "canhnkph46455@fpt.edu.vn",
+      "password": "$2a$10$vI3trDL0x0IosQClf.HEPeHDwTwI3Rk6NgRw7RbP/9Oi30fUHJCzi",
+      "id": 12
+    },
+    {
+      "email": "manh11@gmail.com",
+      "password": "$2a$10$KhT4x5uS4tciyLs1QwaX.u6RKLZ35LggsQiXdWwRtcs7BVbJ72Kri",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Samsung Galaxy S23 ultra",
+      "description": "Điện Thoại Samsung Galaxy S23 Ultra (8GB/258GB)",
+      "price": 34623,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-llbkf9faf6ba72",
+      "images": [
+        "https://cdn.dummyjson.com/product-images/1/1.jpg",
+        "https://cdn.dummyjson.com/product-images/1/2.jpg",
+        "https://cdn.dummyjson.com/product-images/1/3.jpg",
+        "https://cdn.dummyjson.com/product-images/1/4.jpg",
+        "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+      ]
+    },
+    {
+      "title": "Samsung Universe 11",
+      "price": 345345,
+      "description": "erterterte",
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lqm93ygb5kjbf4",
+      "id": 2
+    },
+    {
+      "title": "Điện thoại Samsung Galaxy Z Flip4",
+      "price": 123,
+      "description": "Nhập ELSS155BU Giảm 15%",
+      "thumbnail": "https://down-vn.img.susercontent.com/file/vn-11134201-7qukw-lkgj73sby0f0e7",
+      "id": 9
+    }
+  ]
+}
